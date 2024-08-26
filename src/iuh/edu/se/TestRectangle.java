@@ -6,7 +6,7 @@
 package iuh.edu.se;
 
 /*
- * @description:
+ * @description: Tinh dien tich va chu vi hinh chu nhat
  * @author: Doan, Nguyen Nhut
  * @version: 1.0
  * @created: 8/25/2024 6:16 PM
